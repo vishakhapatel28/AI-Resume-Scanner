@@ -1,0 +1,12 @@
+We are hiring a Data Analyst with strong skills in Python, SQL, Pandas, and Data Analysis.
+
+Responsibilities:
+- Perform data cleaning and preprocessing
+- Analyze datasets using Python
+- Build dashboards using Power BI or Tableau
+- Apply statistical techniques
+
+Requirements:
+- Strong knowledge of Python, SQL, Pandas, NumPy
+- Experience in data analysis and visualization
+- Understanding of statistics and machine learning basics
